@@ -1,0 +1,15 @@
+# Blog entry from medium
+
+## Blog can be found at: https://medium.com/@mindlikewater/tiy-a-new-journey-103c223a38b4#.5d0sao9yu.
+
+## TIY — A New Journey
+
+I started The Iron Yard because I felt trapped in a dead-end career and had been wanting to learn coding for awhile. I took two programming courses through Gwinnett Tech online (which I successfully completed), but I didn’t feel like I was “getting it” well enough without an in-class component. I found it hard to work a full-time job and take classes on the side. Finally, I decided to bite the bullet and attend a boot camp! I figured, if I poured 100% of my effort into doing this one thing, then it would all click for me.
+
+That’s where The Iron Yard came in. I knew I wanted to be in the Front-End Web Development track because I was interested in the design aspects of coding. On my first day of class, I was so nervous about starting the program. I new this was the first step to a new career journey for me, and I was so scared of failing. However, I started talking to some of my classmates, and I quickly realized that many of us had the same feelings. I felt less alone and more like I could actually succeed!
+
+My first day was full of struggles. I made a mistake and had my browser accidentally eat my entire assignment without saving, so I had to start over from scratch. I already felt like I was behind in working on the assignment because I was a late addition to my cohort and had to spend some time going through new student orientation. However, one of my peers was also in the late orientation group with me, and he stayed with me working on the first assignment for quite a long time. I believe we were the last two students to leave on Day 1, and I stayed on campus until nearly 8 p.m. By the time I left, though, I had completed my first homework assignment and felt a sense of accomplishment. Little did I know, it was just going to get harder….
+
+The good news is that I’ve survived my first week of this 12-week program. I’m currently feeling more confident in my abilities. In my first week, I learned how to create a webpage from scratch, including writing HTML (which I had never done before), using CSS to stylize my HTML (which I had never done before), using my computer’s Command Line to create new directories and files, using Git to track my project changes, and using GitHub to push my files to the Internet. I learned about CSS layouts, including using float and position (relative and absolute). The sheer volume of new things I learned in my first week is astounding!
+
+Today was the first day of Week 2, and we had our first lesson in Javascript. I was actually feeling a little more comfortable with the material, thanks to having taken C++ Programming I. There are certain concepts that are central to many programming languages, and even similar syntax rules, so my background was helpful to me. I still feel some trepidation about the coursework ahead. Will I be able to continue climbing the mountain? I believe I can do it, and I certainly intend to put in the work. If my peers can get through it, I can, too!
