@@ -64,3 +64,18 @@ instructorName = "Brit";
 
 // Final Statement
 var statement = yourName + " is taking a class at The Iron Yard. Their instructor's name is " + instructorName + ".";
+
+// Hard(ish) Mode: Write a function that takes three parameters: x, y, and z, and returns the sum of the squares of the two largest numbers.
+var sumBiggerSquares = function(x,y,z) {
+  if (x<y && x<z) {
+    return (y*y + z*z);
+  }
+  else if (y<x && y<z){
+    return (x*x + z*z);
+  }
+  else {
+    return (y*y + z*z);
+  }
+};
+
+sumBiggerSquares(2,3,5);  //test the function
